@@ -1,0 +1,30 @@
+\contentsline {section}{\numberline {I}INTRODUCTION}{3}{section.1}%
+\contentsline {section}{\numberline {II}Robot System Initial Proposal}{3}{section.2}%
+\contentsline {section}{\numberline {III}Manipulator Design}{3}{section.3}%
+\contentsline {subsection}{\numberline {\mbox {III-A}}Robot Arm}{3}{subsection.3.1}%
+\contentsline {subsection}{\numberline {\mbox {III-B}}Robot Gripper}{3}{subsection.3.2}%
+\contentsline {subsection}{\numberline {\mbox {III-C}}Entire Model}{3}{subsection.3.3}%
+\contentsline {section}{\numberline {IV}Other Components}{3}{section.4}%
+\contentsline {subsection}{\numberline {\mbox {IV-A}}Sensors}{3}{subsection.4.1}%
+\contentsline {subsection}{\numberline {\mbox {IV-B}}Motors}{3}{subsection.4.2}%
+\contentsline {subsection}{\numberline {\mbox {IV-C}}Controllers}{3}{subsection.4.3}%
+\contentsline {subsection}{\numberline {\mbox {IV-D}}Control Methodology}{3}{subsection.4.4}%
+\contentsline {section}{\numberline {V}Forward Kinematic}{4}{section.5}%
+\contentsline {section}{\numberline {VI}Inverse Kinematics}{4}{section.6}%
+\contentsline {section}{\numberline {VII}System Simulation}{4}{section.7}%
+\contentsline {section}{\numberline {VIII}Discussion and Conclusions}{7}{section.8}%
+\contentsline {subsection}{\numberline {\mbox {VIII-A}}Copyright Form}{7}{subsection.8.1}%
+\contentsline {section}{\numberline {IX}Units}{8}{section.9}%
+\contentsline {section}{\numberline {X}Helpful Hints}{8}{section.10}%
+\contentsline {subsection}{\numberline {\mbox {X-A}}Figures and Tables}{8}{subsection.10.1}%
+\contentsline {subsection}{\numberline {\mbox {X-B}}\LaTeX -Specific Advice}{8}{subsection.10.2}%
+\contentsline {subsection}{\numberline {\mbox {X-C}}References}{9}{subsection.10.3}%
+\contentsline {subsection}{\numberline {\mbox {X-D}}Abbreviations and Acronyms}{9}{subsection.10.4}%
+\contentsline {subsection}{\numberline {\mbox {X-E}}Equations}{9}{subsection.10.5}%
+\contentsline {subsection}{\numberline {\mbox {X-F}}Other Recommendations}{9}{subsection.10.6}%
+\contentsline {section}{\numberline {XI}Some Common Mistakes}{9}{section.11}%
+\contentsline {section}{\numberline {XII}Editorial Policy}{10}{section.12}%
+\contentsline {section}{\numberline {XIII}Publication Principles}{10}{section.13}%
+\contentsline {section}{\numberline {XIV}Conclusion}{10}{section.14}%
+\contentsline {section}{References}{11}{section*.2}%
+\contentsline {section}{Appendix}{21}{section*.3}%

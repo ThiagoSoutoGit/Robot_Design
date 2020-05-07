@@ -1,0 +1,30 @@
+\BOOKMARK [1][-]{section.1}{INTRODUCTION}{}% 1
+\BOOKMARK [1][-]{section.2}{Robot System Initial Proposal}{}% 2
+\BOOKMARK [1][-]{section.3}{Manipulator Design}{}% 3
+\BOOKMARK [2][-]{subsection.3.1}{Robot Arm}{section.3}% 4
+\BOOKMARK [2][-]{subsection.3.2}{Robot Gripper}{section.3}% 5
+\BOOKMARK [2][-]{subsection.3.3}{Entire Model}{section.3}% 6
+\BOOKMARK [1][-]{section.4}{Other Components}{}% 7
+\BOOKMARK [2][-]{subsection.4.1}{Sensors}{section.4}% 8
+\BOOKMARK [2][-]{subsection.4.2}{Motors}{section.4}% 9
+\BOOKMARK [2][-]{subsection.4.3}{Controllers}{section.4}% 10
+\BOOKMARK [2][-]{subsection.4.4}{Control Methodology}{section.4}% 11
+\BOOKMARK [1][-]{section.5}{Forward Kinematic}{}% 12
+\BOOKMARK [1][-]{section.6}{Inverse Kinematics}{}% 13
+\BOOKMARK [1][-]{section.7}{System Simulation}{}% 14
+\BOOKMARK [1][-]{section.8}{Discussion and Conclusions}{}% 15
+\BOOKMARK [2][-]{subsection.8.1}{Copyright Form}{section.8}% 16
+\BOOKMARK [1][-]{section.9}{Units}{}% 17
+\BOOKMARK [1][-]{section.10}{Helpful Hints}{}% 18
+\BOOKMARK [2][-]{subsection.10.1}{Figures and Tables}{section.10}% 19
+\BOOKMARK [2][-]{subsection.10.2}{LaTeX-Specific Advice}{section.10}% 20
+\BOOKMARK [2][-]{subsection.10.3}{References}{section.10}% 21
+\BOOKMARK [2][-]{subsection.10.4}{Abbreviations and Acronyms}{section.10}% 22
+\BOOKMARK [2][-]{subsection.10.5}{Equations}{section.10}% 23
+\BOOKMARK [2][-]{subsection.10.6}{Other Recommendations}{section.10}% 24
+\BOOKMARK [1][-]{section.11}{Some Common Mistakes}{}% 25
+\BOOKMARK [1][-]{section.12}{Editorial Policy}{}% 26
+\BOOKMARK [1][-]{section.13}{Publication Principles}{}% 27
+\BOOKMARK [1][-]{section.14}{Conclusion}{}% 28
+\BOOKMARK [1][-]{section*.2}{References}{}% 29
+\BOOKMARK [1][-]{section*.3}{Appendix}{}% 30
